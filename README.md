@@ -1,6 +1,6 @@
 <h1>Hi, I'm Akhilesh Rana.</h1>
 
-I’m a pre-final year undergraduate student at National Institute of Technology Hamirpur, Himachal Pradesh, currently pursuing my bachelor's degree in Mechanical Engineering. 
+I’m a final year undergraduate student at National Institute of Technology Hamirpur, Himachal Pradesh, currently pursuing my bachelor's degree in Mechanical Engineering. 
 
 I’m passionate about data analytics and machine learning. These days, I’m working on polishing my Data analytics and machine learning skills.
 
